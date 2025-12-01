@@ -6,3 +6,5 @@ Kodda hem **implicit (örtük)** hem de **explicit (açık)** dönüşümler, ay
 # 🛡️ [Hata Yönetimi Örneği](./Hata-Yonetimi/Program.cs)
 C# programlama dilinde **try-catch-finally** yapısını kullanarak hata yönetiminin nasıl yapılacağını gösteren basit bir konsol uygulamasıdır.
 # 🔧 [If-Else Yapısı ve Ternary Operatörü](./If-Else-Ternary/Program.cs)
+Bu doküman, C# dilinde if-else yapısı ile ternary operatörünün nasıl çalıştığını, hangi durumlarda tercih edildiğini ve örnek kullanım senaryolarını açıklamaktadır.
+
