@@ -20,7 +20,7 @@ namespace if_else_if_statement_example
         Console.WriteLine("Good evening.");// In other cases, print "Hello."
 
       }
-
+      // Using Ternary Operator
       string result = time <=18 ? "Good day." : "Good evening.";
       result = time >=6 && time <11 ? "Good morning." : time<=18 ? "Good day." : "Good evening.";
       Console.WriteLine(result);

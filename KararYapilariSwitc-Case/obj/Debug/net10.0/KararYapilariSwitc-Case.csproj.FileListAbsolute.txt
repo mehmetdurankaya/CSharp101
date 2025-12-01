@@ -1,0 +1,15 @@
+D:\C#LEARN\KararYapilariSwitc-Case\bin\Debug\net10.0\KararYapilariSwitc-Case.exe
+D:\C#LEARN\KararYapilariSwitc-Case\bin\Debug\net10.0\KararYapilariSwitc-Case.deps.json
+D:\C#LEARN\KararYapilariSwitc-Case\bin\Debug\net10.0\KararYapilariSwitc-Case.runtimeconfig.json
+D:\C#LEARN\KararYapilariSwitc-Case\bin\Debug\net10.0\KararYapilariSwitc-Case.dll
+D:\C#LEARN\KararYapilariSwitc-Case\bin\Debug\net10.0\KararYapilariSwitc-Case.pdb
+D:\C#LEARN\KararYapilariSwitc-Case\obj\Debug\net10.0\KararYapilariSwitc-Case.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#LEARN\KararYapilariSwitc-Case\obj\Debug\net10.0\KararYapilariSwitc-Case.AssemblyInfoInputs.cache
+D:\C#LEARN\KararYapilariSwitc-Case\obj\Debug\net10.0\KararYapilariSwitc-Case.AssemblyInfo.cs
+D:\C#LEARN\KararYapilariSwitc-Case\obj\Debug\net10.0\KararYapilariSwitc-Case.csproj.CoreCompileInputs.cache
+D:\C#LEARN\KararYapilariSwitc-Case\obj\Debug\net10.0\KararYapilariSwitc-Case.sourcelink.json
+D:\C#LEARN\KararYapilariSwitc-Case\obj\Debug\net10.0\KararYapilariSwitc-Case.dll
+D:\C#LEARN\KararYapilariSwitc-Case\obj\Debug\net10.0\refint\KararYapilariSwitc-Case.dll
+D:\C#LEARN\KararYapilariSwitc-Case\obj\Debug\net10.0\KararYapilariSwitc-Case.pdb
+D:\C#LEARN\KararYapilariSwitc-Case\obj\Debug\net10.0\KararYapilariSwitc-Case.genruntimeconfig.cache
+D:\C#LEARN\KararYapilariSwitc-Case\obj\Debug\net10.0\ref\KararYapilariSwitc-Case.dll
