@@ -9,3 +9,5 @@ C# programlama dilinde **try-catch-finally** yapısını kullanarak hata yöneti
 Bu doküman, C# dilinde if-else yapısı ile ternary operatörünün nasıl çalıştığını, hangi durumlarda tercih edildiğini ve örnek kullanım senaryolarını açıklamaktadır.
 # 🌐 [Switch Case ile Ay ve Mevsim Belirleme](./KararYapilariSwitc-Case/Program.cs)
 Bu proje, kullanıcıdan **1 ile 12 arasında bir sayı** alarak hem ilgili **ayı** hem de **mevsimi** ekrana yazdırır. C# dilinde `switch-case` yapısını öğretmek ve mevsim eşleştirmesi yapmak için hazırlanmıştır.
+# 🔢 [Tek ve Çift Sayıların Toplamı Programı](./Donguler/Program.cs)
+Bu program, kullanıcıdan bir sayı alır ve 1'den bu sayıya kadar olan tek ve çift sayıların toplamını ayrı ayrı hesaplar ve ekrana yazdırır.
