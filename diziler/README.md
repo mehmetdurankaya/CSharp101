@@ -67,17 +67,16 @@ Kullanıcıdan dizi uzunluğu alınır.
 Girilen değerlere göre yeni bir dizi oluşturulur.
 ---
 
-foreach döngüsü ile dizideki tüm sayıların toplamı alınır.
+- foreach döngüsü ile dizideki tüm sayıların toplamı alınır.
+- Ortalama hesaplanıp ekrana yazdırılır.
+- Köpek
+- 10
+- Mavi
+- Lütfen dizinin eleman sayısını giriniz: 3
+- Lütfen 1. sayıyı giriniz: 10
+- Lütfen 2. sayıyı giriniz: 20
+- Lütfen 3. sayıyı giriniz: 30
+- Ortalama : 10
+- Ortalama : 20
+- Ortalama : 30
 
-Ortalama hesaplanıp ekrana yazdırılır.
-Köpek
-10
-Mavi
-Lütfen dizinin eleman sayısını giriniz: 3
-Lütfen 1. sayıyı giriniz: 10
-Lütfen 2. sayıyı giriniz: 20
-Lütfen 3. sayıyı giriniz: 30
-Ortalama : 10
-Ortalama : 20
-Ortalama : 30
----
