@@ -17,3 +17,6 @@ Bu proje, kullanıcıdan **1 ile 12 arasında bir sayı** alarak hem ilgili **ay
 ## 🔢 [C# Döngü Örnekleri](./Donguler/Program.cs)
 Bu proje, C# dilinde **for**, **while** ve **foreach** döngülerinin nasıl kullanıldığını gösteren basit örneklerden oluşur. Her örnek, kullanıcıdan alınan verilere göre işlem yapar ve sonucu ekrana yazdırır.
 ---
+## [  C# Diziler ve Ortalama Hesaplama](./diziler/Program.cs)
+Bu proje, C# programlama dilinde dizilerin nasıl tanımlanacağını, değer atanacağını, döngülerle nasıl kullanılacağını ve kullanıcıdan alınan girdilerle bir dizinin ortalamasının nasıl hesaplanacağını gösteren basit bir örnek içerir.
+---

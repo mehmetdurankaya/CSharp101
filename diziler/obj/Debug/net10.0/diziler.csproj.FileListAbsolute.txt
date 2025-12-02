@@ -1,0 +1,15 @@
+D:\C#LEARN\diziler\bin\Debug\net10.0\diziler.exe
+D:\C#LEARN\diziler\bin\Debug\net10.0\diziler.deps.json
+D:\C#LEARN\diziler\bin\Debug\net10.0\diziler.runtimeconfig.json
+D:\C#LEARN\diziler\bin\Debug\net10.0\diziler.dll
+D:\C#LEARN\diziler\bin\Debug\net10.0\diziler.pdb
+D:\C#LEARN\diziler\obj\Debug\net10.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#LEARN\diziler\obj\Debug\net10.0\diziler.AssemblyInfoInputs.cache
+D:\C#LEARN\diziler\obj\Debug\net10.0\diziler.AssemblyInfo.cs
+D:\C#LEARN\diziler\obj\Debug\net10.0\diziler.csproj.CoreCompileInputs.cache
+D:\C#LEARN\diziler\obj\Debug\net10.0\diziler.sourcelink.json
+D:\C#LEARN\diziler\obj\Debug\net10.0\diziler.dll
+D:\C#LEARN\diziler\obj\Debug\net10.0\refint\diziler.dll
+D:\C#LEARN\diziler\obj\Debug\net10.0\diziler.pdb
+D:\C#LEARN\diziler\obj\Debug\net10.0\diziler.genruntimeconfig.cache
+D:\C#LEARN\diziler\obj\Debug\net10.0\ref\diziler.dll
