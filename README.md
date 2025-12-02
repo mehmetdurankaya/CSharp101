@@ -1,13 +1,19 @@
-# ⚙️ C# 101 – [Operatörler](./Operators/Program.cs) (Patika.dev Notları)
+## ⚙️ C# 101 – [Operatörler](./Operators/Program.cs) (Patika.dev Notları)
 Bu döküman, C# programlama dilinde kullanılan temel operatörleri açıklamaktadır. Operatörler, değişkenler ve değerler üzerinde işlemler gerçekleştirmek için kullanılır.
-# ⚡ C# [Tip Dönüşümleri – Örnekler ve Notlar](./Variables/Program.cs)
+---
+## ⚡ C# [Tip Dönüşümleri – Örnekler ve Notlar](./Variables/Program.cs)
 Bu repo, C# 101 kapsamında **tip dönüşümleri (type conversion)** konusunu örneklerle göstermektedir.  
 Kodda hem **implicit (örtük)** hem de **explicit (açık)** dönüşümler, ayrıca **ToString**, **Convert** ve **Parse** metodları kullanılmıştır.
-# 🛡️ [Hata Yönetimi Örneği](./Hata-Yonetimi/Program.cs)
+---
+## 🛡️ [Hata Yönetimi Örneği](./Hata-Yonetimi/Program.cs)
 C# programlama dilinde **try-catch-finally** yapısını kullanarak hata yönetiminin nasıl yapılacağını gösteren basit bir konsol uygulamasıdır.
-# 🔧 [If-Else Yapısı ve Ternary Operatörü](./If-Else-Ternary/Program.cs)
+---
+## 🔧 [If-Else Yapısı ve Ternary Operatörü](./If-Else-Ternary/Program.cs)
 Bu doküman, C# dilinde if-else yapısı ile ternary operatörünün nasıl çalıştığını, hangi durumlarda tercih edildiğini ve örnek kullanım senaryolarını açıklamaktadır.
-# 🌐 [Switch Case ile Ay ve Mevsim Belirleme](./KararYapilariSwitc-Case/Program.cs)
+---
+## 🌐 [Switch Case ile Ay ve Mevsim Belirleme](./KararYapilariSwitc-Case/Program.cs)
 Bu proje, kullanıcıdan **1 ile 12 arasında bir sayı** alarak hem ilgili **ayı** hem de **mevsimi** ekrana yazdırır. C# dilinde `switch-case` yapısını öğretmek ve mevsim eşleştirmesi yapmak için hazırlanmıştır.
-# 🔢 [Tek ve Çift Sayıların Toplamı Programı](./Donguler/Program.cs)
-Bu program, kullanıcıdan bir sayı alır ve 1'den bu sayıya kadar olan tek ve çift sayıların toplamını ayrı ayrı hesaplar ve ekrana yazdırır.
+---
+## 🔢 [C# Döngü Örnekleri](./Donguler/Program.cs)
+Bu proje, C# dilinde **for**, **while** ve **foreach** döngülerinin nasıl kullanıldığını gösteren basit örneklerden oluşur. Her örnek, kullanıcıdan alınan verilere göre işlem yapar ve sonucu ekrana yazdırır.
+---
