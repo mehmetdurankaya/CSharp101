@@ -26,3 +26,5 @@ Bu proje, C# dilinde diziler üzerinde gerçekleştirilebilecek temel işlemleri
 ## [C# Metotlar](./methods/Program.cs)
 Bu proje, C# programlama dilinde metot kullanımı, parametre yapıları, `ref` anahtar sözcüğü ve sınıf/metot ilişkilerini gösteren basit bir örnek içerir.
 ---
+## [C# Metot Aşırı Yükleme (Overloading) ve `out` Parametre Örneği](./methods/methot-overloading/Program.cs)
+Bu proje, C# dilinde **`out` parametreleri**, **metot aşırı yükleme (method overloading)**, **metot imzası** ve **farklı parametre tipleriyle çalışan metotlar** üzerine hazırlanmış öğretici bir örnek içerir.
