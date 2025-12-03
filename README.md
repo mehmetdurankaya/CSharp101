@@ -23,3 +23,6 @@ Bu proje, C# programlama dilinde dizilerin nasıl tanımlanacağını, değer at
 ## [C# Array (Dizi) İşlemleri Uygulaması](./diziler/array-sinifi/Program.cs)
 Bu proje, C# dilinde diziler üzerinde gerçekleştirilebilecek temel işlemleri örnekleyen bir konsol uygulamasıdır. Kod; sıralama, temizleme, ters çevirme, eleman arama, yeniden boyutlandırma gibi birçok temel `Array` sınıfı işlevini göstermektedir.
 ---
+## [C# Metotlar](./methods/Program.cs)
+Bu proje, C# programlama dilinde metot kullanımı, parametre yapıları, `ref` anahtar sözcüğü ve sınıf/metot ilişkilerini gösteren basit bir örnek içerir.
+---
