@@ -20,3 +20,6 @@ Bu proje, C# dilinde **for**, **while** ve **foreach** döngülerinin nasıl kul
 ## [  C# Diziler ve Ortalama Hesaplama](./diziler/Program.cs)
 Bu proje, C# programlama dilinde dizilerin nasıl tanımlanacağını, değer atanacağını, döngülerle nasıl kullanılacağını ve kullanıcıdan alınan girdilerle bir dizinin ortalamasının nasıl hesaplanacağını gösteren basit bir örnek içerir.
 ---
+## [C# Array (Dizi) İşlemleri Uygulaması](./diziler/array-sinifi/Program.cs)
+Bu proje, C# dilinde diziler üzerinde gerçekleştirilebilecek temel işlemleri örnekleyen bir konsol uygulamasıdır. Kod; sıralama, temizleme, ters çevirme, eleman arama, yeniden boyutlandırma gibi birçok temel `Array` sınıfı işlevini göstermektedir.
+---
