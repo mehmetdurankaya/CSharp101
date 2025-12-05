@@ -32,3 +32,7 @@ Bu proje, C# dilinde **`out` parametreleri**, **metot aşırı yükleme (method 
 # [C# Recursive ve Extension Metot Örnekleri ](./methods/recursive-extension-other-metotlar/Program.cs)
 Bu proje, C# dilinde **recursive (özyinelemeli) metotlar**, **iterative (döngüsel) metotlar** ve **extension metotlar** kullanımını göstermektedir. Hem temel programlama kavramlarını hem de C#’ın gelişmiş özelliklerini öğrenmek için iyi bir örnektir.
 ---
+# 📝 [Odev1 Konsol Uygulaması](./odevler/odev1/Program.cs)
+Bu proje, kullanıcıdan alınan seçimlerle dört farklı işlemi gerçekleştiren basit bir C# konsol uygulamasıdır.
+Uygulama, bir menü üzerinden kullanıcı etkileşimi sağlar ve kullanıcı çıkış yapana kadar çalışmaya devam eder.
+--
