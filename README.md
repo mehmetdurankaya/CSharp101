@@ -58,3 +58,8 @@ Bu proje, C# Generic Collection (List<T>) yapısının kullanımını adım adı
 Listelerde eleman ekleme, silme, arama, listeyi temizleme ve nesne listeleri oluşturma gibi temel işlemler örneklerle açıklanmaktadır.
 
 ---
+## 📌 [ArrayList Örnek Uygulaması](./array-list/Program.cs)
+ArrayList Example (C#)
+Bu proje, C# dilinde ArrayList sınıfının temel kullanımını örnekleyen basit bir konsol uygulamasıdır.
+ArrayList, farklı veri tiplerini aynı koleksiyonda tutabilen, dinamik olarak büyüyüp küçülebilen bir koleksiyon yapısıdır.
+--- 

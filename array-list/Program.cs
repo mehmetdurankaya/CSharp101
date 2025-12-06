@@ -46,7 +46,8 @@ namespace ArrayListExamle
       Console.WriteLine("****** Reverse ******");
       liste.Reverse();
       foreach (var item in liste)
-        Console.WriteLine(item);
+     
+   Console.WriteLine(item);
       //Clear
       Console.WriteLine("****** Clear ******");
       liste.Clear();
