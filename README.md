@@ -53,4 +53,8 @@ Uygulama, bir menü üzerinden kullanıcı etkileşimi sağlar ve kullanıcı ç
 Bu proje, .NET'in **DateTime** ve **Math** kütüphanelerini pratik örneklerle gösteren basit bir C# konsol uygulamasıdır. Kod, tarih/saat bilgileriyle ilgili temel işlemleri ve matematiksel fonksiyonları içeren kapsamlı bir demo sunar.
 
 ---
+## 📘 [Generic Collection Örnek Uygulaması](./generic-collection/Program.cs)
+Bu proje, C# Generic Collection (List<T>) yapısının kullanımını adım adım gösteren bir örnek konsol uygulamasıdır.
+Listelerde eleman ekleme, silme, arama, listeyi temizleme ve nesne listeleri oluşturma gibi temel işlemler örneklerle açıklanmaktadır.
 
+---

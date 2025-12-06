@@ -61,18 +61,6 @@
       Console.WriteLine(Math.Log(9)); // Logaritma 9 un etanına göre logaritması
       Console.WriteLine(Math.Exp(3)); // E tabanı üzeri 3 ü verir
       Console.WriteLine(Math.Log10(10));// 10'un logaritması
-
-
-
-
-
-
-
-
-
-
-
-
     }
   }
 }
