@@ -63,3 +63,13 @@ ArrayList Example (C#)
 Bu proje, C# dilinde ArrayList sınıfının temel kullanımını örnekleyen basit bir konsol uygulamasıdır.
 ArrayList, farklı veri tiplerini aynı koleksiyonda tutabilen, dinamik olarak büyüyüp küçülebilen bir koleksiyon yapısıdır.
 --- 
+## 📘 [Koleksiyonlar – Soru 1](./odevler/odev1/Program.cs)
+Bu proje, kullanıcıdan alınan 20 pozitif sayıyı asal ve asal olmayan olarak ayıran, bu sayıları sıralayan ve istatistiklerini hesaplayan bir C# Console uygulamasıdır.
+---
+## 📌 [Koleksiyonlar – Soru 2](./odevler/odev2/Koleksiyonlar-Soru-2/Program.cs)
+Bu proje, kullanıcıdan alınan 20 adet sayının içinden en küçük 3 sayı ve en büyük 3 sayı değerlerini bulan, bu sayıların ortalamasını hesaplayan ve sonuçları ekrana yazdıran bir C# console uygulamasıdır.
+---
+
+## 📌 [Koleksiyonlar – Soru 3](./odevler/odev2/Koleksiyonlar-Soru-3/Program.cs)
+Bu proje, kullanıcıdan alınan bir cümledeki sesli harfleri bulup bir koleksiyon içinde saklayan ve sıralayarak ekrana yazdıran bir C# console uygulamasıdır.
+---
