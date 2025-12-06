@@ -65,16 +65,7 @@
       Console.WriteLine("******Substring******"); 
       Console.WriteLine(degisken.Substring(5)); //belirli bir indexinden itibaren sonuna kadar olan stringi alır ve yeni string döner.
       Console.WriteLine(degisken.Substring(4,6));// belirli bir indexden başlayarak belirli uzunlukta olan stringi alır ve yeni string döner. 
- 
-
-
-
-
-
-
-
-
-     
+   
     }
   }
 }
