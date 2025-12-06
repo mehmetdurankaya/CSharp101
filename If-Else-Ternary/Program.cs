@@ -21,8 +21,8 @@ namespace if_else_if_statement_example
 
       }
       // Using Ternary Operator
-      string result = time <=18 ? "Good day." : "Good evening.";
-      result = time >=6 && time <11 ? "Good morning." : time<=18 ? "Good day." : "Good evening.";
+      string result = time <= 18 ? "Good day." : "Good evening.";
+      result = time >= 6 && time < 11 ? "Good morning." : time <= 18 ? "Good day." : "Good evening.";
       Console.WriteLine(result);
     }
   }

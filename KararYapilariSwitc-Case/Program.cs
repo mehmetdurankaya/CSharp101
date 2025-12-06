@@ -7,7 +7,7 @@ namespace Switch_Case_Statement
     {
       Console.WriteLine("Please select a numerical month between 1 and 12");
       int month = Convert.ToInt32(Console.ReadLine());
-      
+
       switch (month)
       {
         case 1:
@@ -35,7 +35,7 @@ namespace Switch_Case_Statement
           Console.WriteLine("September");
           break;
         case 9:
-          Console.WriteLine("October"); 
+          Console.WriteLine("October");
           break;
         case 10:
           Console.WriteLine("November");
@@ -43,8 +43,8 @@ namespace Switch_Case_Statement
         case 11:
           Console.WriteLine("December");
           break;
-          case 12:
-          Console.WriteLine("December");  
+        case 12:
+          Console.WriteLine("December");
           break;
         default:
           Console.WriteLine("Yanlış Seçim Yaptınız!");
@@ -72,7 +72,7 @@ namespace Switch_Case_Statement
         case 10:
         case 11:
           Console.WriteLine("Autumn");
-          break;       
+          break;
       }
     }
   }

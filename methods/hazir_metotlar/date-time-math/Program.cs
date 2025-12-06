@@ -4,7 +4,7 @@
   {
     public static void Main(string[] args)
     {
-      
+
       Console.WriteLine(DateTime.Now);//Günün tarihini getirir      
       Console.WriteLine(DateTime.Now.Date);//
       Console.WriteLine(DateTime.Now.Day);//
@@ -53,10 +53,10 @@
       Console.WriteLine(Math.Round(22.7));// 23
       Console.WriteLine(Math.Floor(22.7)); // Aşağı Yuvarlama
 
-      Console.WriteLine(Math.Max(2,6)); // Max Değer
-      Console.WriteLine(Math.Min(2,6)); // Min Değer
+      Console.WriteLine(Math.Max(2, 6)); // Max Değer
+      Console.WriteLine(Math.Min(2, 6)); // Min Değer
 
-      Console.WriteLine(Math.Pow(3,4)); // 
+      Console.WriteLine(Math.Pow(3, 4)); // 
       Console.WriteLine(Math.Sqrt(9));// Karekök
       Console.WriteLine(Math.Log(9)); // Logaritma 9 un etanına göre logaritması
       Console.WriteLine(Math.Exp(3)); // E tabanı üzeri 3 ü verir

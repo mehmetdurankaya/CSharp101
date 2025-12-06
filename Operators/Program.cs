@@ -9,11 +9,11 @@ namespace Operatorlar
       // Atama ve işlemli atama
       Console.WriteLine("********* Atama ve İşlemli Atama Operatörleri *********");
       int x = 3;
-        Console.WriteLine($" x : {x}");
+      Console.WriteLine($" x : {x}");
       int y = 3;
       Console.WriteLine($" y : {y}");
       y = y + 2;
-     Console.WriteLine($" y = y + 2 : {y}");
+      Console.WriteLine($" y = y + 2 : {y}");
       y += 2;
       Console.WriteLine($"  y +=2 : {y}");
       y /= 1;
@@ -72,7 +72,7 @@ namespace Operatorlar
       Console.WriteLine("********* Atama Operatörleri *********");
       // =, +=, -=, *=, /=
       int sayi3 = 20;
-       Console.WriteLine($" sayi3 = {sayi3} ");
+      Console.WriteLine($" sayi3 = {sayi3} ");
       sayi3 += 10;
       Console.WriteLine($" sayi3 +=10 : {sayi3} ");
       sayi3 -= 5;
@@ -81,17 +81,17 @@ namespace Operatorlar
       Console.WriteLine($" sayi3 *=2 : {sayi3} ");
       sayi3 /= 4;
       Console.WriteLine($" sayi3 /=4 : {sayi3} ");
-   
-     // % Mod alma
+
+      // % Mod alma
       Console.WriteLine("********* Mod Alma Operatörü *********");
       int sayi8 = 20;
       int sayi9 = 3;
       int sonuc5 = sayi8 % sayi9;
       Console.WriteLine($" sayi8: {sayi8} sayi9 : {sayi9} ");
       Console.WriteLine($" % Mod Alma: Sayi8 % Sayi9 : {sonuc5} ");
-      
+
     }
   }
 
-  
+
 }

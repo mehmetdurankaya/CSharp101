@@ -9,32 +9,32 @@ namespace recursivemetot
   {
     static void Main(string[] args)
     {
-      
-     
-     Console.WriteLine("Recursive Metot ile sonuç: " + recursiveMetot(4));
+
+
+      Console.WriteLine("Recursive Metot ile sonuç: " + recursiveMetot(4));
       Console.WriteLine("**********");
       Console.WriteLine("Iterative metot ile sonuç: " + iterativeMetot(4));
-       Console.WriteLine("**********");
-       //Extension Metotlar
-       Console.WriteLine("******Extension Metotlar******");
+      Console.WriteLine("**********");
+      //Extension Metotlar
+      Console.WriteLine("******Extension Metotlar******");
 
-        string ifade = "Mehmet Duran Kaya";
-        bool sonuc = ifade.CheckSpaces();
-        Console.WriteLine(sonuc);
-        if(sonuc)        
-           Console.WriteLine(ifade.RemoveWhiteSpaces());
-       Console.WriteLine(ifade.MakeUpperCase());
-       Console.WriteLine(ifade.MakeLowerCase());
+      string ifade = "Mehmet Duran Kaya";
+      bool sonuc = ifade.CheckSpaces();
+      Console.WriteLine(sonuc);
+      if (sonuc)
+        Console.WriteLine(ifade.RemoveWhiteSpaces());
+      Console.WriteLine(ifade.MakeUpperCase());
+      Console.WriteLine(ifade.MakeLowerCase());
 
-       int[] dizi = {9,3,6,2,1,5,0};
-        Array.Sort(dizi);
-        dizi = dizi.SortArray();
-        dizi.EkranaYazdir();
+      int[] dizi = { 9, 3, 6, 2, 1, 5, 0 };
+      Array.Sort(dizi);
+      dizi = dizi.SortArray();
+      dizi.EkranaYazdir();
 
-        int sayi = 5;
-        Console.WriteLine(sayi.IsEvenNumber());
-        Console.WriteLine(ifade.GetFirstCharacter());
-     
+      int sayi = 5;
+      Console.WriteLine(sayi.IsEvenNumber());
+      Console.WriteLine(ifade.GetFirstCharacter());
+
 
     }
 
@@ -52,11 +52,11 @@ namespace recursivemetot
         F(2) = 2 + F(1)
         F(1) = 1
       */
-      if(n == 1)
+      if (n == 1)
       {
         return 1;
       }
-      int result = recursiveMetot(n-1) + n;
+      int result = recursiveMetot(n - 1) + n;
       Console.WriteLine(result);
       Console.WriteLine("**********");
       return result;
@@ -79,7 +79,7 @@ namespace recursivemetot
   {
     //Bu metotlar static olmalı ve static class içinde olmalı
     //İlk parametre this ile başlar ve bu parametre metotun genişletileceği tipi belirtir.
-    
+
     public static bool CheckSpaces(this string param)
     {
       //Boşluk kontrolü yapar
@@ -91,7 +91,7 @@ namespace recursivemetot
       //Boşlukları kaldırır
       Console.WriteLine("Boşluklar yerine * işareti koyuluyor...");
       string[] dizi = param.Split(" ");
-      return string.Join("*",dizi);
+      return string.Join("*", dizi);
     }
     public static string MakeUpperCase(this string param)
     {
@@ -108,11 +108,11 @@ namespace recursivemetot
     public static int[] SortArray(this int[] param)
     {
       //Diziyi sıralar
-      Console.WriteLine("dizi = [9,3,6,2,1,5,0]");      
+      Console.WriteLine("dizi = [9,3,6,2,1,5,0]");
       Console.WriteLine($"Dizi sıralanıyor...  ");
       Array.Sort(param);
       return param;
-    } 
+    }
     public static void EkranaYazdir(this int[] param)
     {
       //Diziyi ekrana yazdırır
@@ -120,20 +120,20 @@ namespace recursivemetot
       foreach (int item in param)
       {
         Console.WriteLine(item);
-        
+
       }
+    }
+    public static bool IsEvenNumber(this int param)
+    {
+      //Çift sayı mı kontrolü yapar
+      Console.WriteLine("Sayı çift mi kontrol ediliyor...");
+      return param % 2 == 0;
+    }
+    public static string GetFirstCharacter(this string param)
+    {
+      //İlk karakteri alır
+      Console.WriteLine("İlk karakter alınıyor...");
+      return param.Substring(0, 1);
+    }
   }
-  public static bool IsEvenNumber(this int param)
-  {
-    //Çift sayı mı kontrolü yapar
-    Console.WriteLine("Sayı çift mi kontrol ediliyor...");
-    return param % 2 == 0;
-  }
-  public static string GetFirstCharacter(this string param)
-  {
-    //İlk karakteri alır
-    Console.WriteLine("İlk karakter alınıyor...");
-    return param.Substring(0,1);
-  }
-}
 }

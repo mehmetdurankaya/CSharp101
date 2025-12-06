@@ -28,7 +28,7 @@
       instance.EkranaYazdir("Mehmet Duran", "Kaya");
       //Metot Imzası
       //Metot adı + parametre sayısı + parametre tipi
-      
+
     }
   }
   class Metotlar
