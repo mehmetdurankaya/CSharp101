@@ -73,6 +73,6 @@ Bu proje, kullanıcıdan alınan 20 adet sayının içinden en küçük 3 sayı 
 ## 📌 [Koleksiyonlar – Soru 3](./odevler/odev2/Koleksiyonlar-Soru-3/Program.cs)
 Bu proje, kullanıcıdan alınan bir cümledeki sesli harfleri bulup bir koleksiyon içinde saklayan ve sıralayarak ekrana yazdıran bir C# console uygulamasıdır.
 ---
-## 📘 Class ve Constructor Kullanımı
+## 📘 [Class ve Constructor Kullanımı](./Class/Program.cs)
 Bu proje, C# dilinde sınıf yapısı (class), erişim belirleyiciler, constructor (yapıcı metod) ve nesne kullanımı konularını örnekleyerek açıklayan basit bir console uygulamasıdır.
 ---
