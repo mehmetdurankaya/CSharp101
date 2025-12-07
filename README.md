@@ -117,5 +117,10 @@ Bu proje, C# kullanılarak geliştirilmiş, profesyonel mimariye sahip çok dosy
 ---
 # PROJELER
 ---
-- **[Fibonacci Ortalama Hesaplama Uygulaması](./projeler/ortalama-hesaplama/README.md)**
+## [Fibonacci Ortalama Hesaplama Uygulaması](./projeler/ortalama-hesaplama/README.md)**
 ---
+## [TriangleDrawer – Üçgen Çizme Uygulaması](./projeler/ucgen-cizme/Program.cs)
+---
+
+
+
