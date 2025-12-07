@@ -82,3 +82,6 @@ Bu proje, C# dilinde constructor (yapıcı metot) kullanımını örnekleyen bas
 ## 🔒 [Encapsulation (Kapsülleme)](./Class/encapsulation/Program.cs)
 Bu proje, C# dilinde encapsulation (kapsülleme) kavramını açıklamak ve uygulamak için hazırlanmış basit bir öğrenci yönetimi örneğidir. Amaç, verilerin doğrudan erişime kapatılması, kontrollü bir şekilde okunup yazılması ve sınıf içinde güvenli bir yapı oluşturulmasını göstermektir.
 ---
+## 📌 [Static Class ve Static Üyeler](./Class/static-class-ve-uyeler/Program.cs)
+Bu proje, C# dilinde static class’lar, static üyeler ve static constructor’ların nasıl çalıştığını göstermek için hazırlanmış basit ve açıklayıcı bir örnektir.
+---
