@@ -112,3 +112,6 @@ Abstract sınıf, tüm araçlara ortak bir temel davranış sunarken; alt sını
 ## 📞 [Telefon Rehberi Uygulaması(PROJE1)](./proje-1/Program.cs)
 Console tabanlı bir telefon rehberi uygulamasıdır. Kullanıcı; kişi ekleyebilir, silebilir, güncelleyebilir, listeleyebilir veya rehberde arama yapabilir. Uygulama, sorumlulukların ayrı sınıflara bölündüğü, okunabilirliği yüksek bir mimari yaklaşımıyla geliştirilmiştir.
 ---
+# [ToDo Console Application(PROJE2)](./proje-2/Program.cs)
+Bu proje, C# kullanılarak geliştirilmiş, profesyonel mimariye sahip çok dosyalı bir **ToDo Yönetim Uygulamasıdır**. Uygulama; kart ekleme, güncelleme, silme, taşıma ve board listeleme özelliklerini içerirken aynı zamanda güçlü bir katmanlı mimari ve SOLID prensiplerine uygun olarak tasarlanmıştır.
+---
