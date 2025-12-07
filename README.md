@@ -109,3 +109,6 @@ Bu proje, C# dilinde interface kullanımını, polimorfizmi, ve genişletilebili
 Bu proje, C# dilinde abstract sınıflar, override, virtual metotlar ve kalıtım mimarisi kavramlarını göstermek için hazırlanmış bir otomobil örneğidir.
 Abstract sınıf, tüm araçlara ortak bir temel davranış sunarken; alt sınıflar kendi marka bilgilerini ve gerekiyorsa varsayılan renklerini özelleştirir.
 ---
+## 📞 [Telefon Rehberi Uygulaması(PROJE1)](./proje-1/Program.cs)
+Console tabanlı bir telefon rehberi uygulamasıdır. Kullanıcı; kişi ekleyebilir, silebilir, güncelleyebilir, listeleyebilir veya rehberde arama yapabilir. Uygulama, sorumlulukların ayrı sınıflara bölündüğü, okunabilirliği yüksek bir mimari yaklaşımıyla geliştirilmiştir.
+---
