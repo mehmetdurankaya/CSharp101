@@ -85,3 +85,8 @@ Bu proje, C# dilinde encapsulation (kapsülleme) kavramını açıklamak ve uygu
 ## 📌 [Static Class ve Static Üyeler](./Class/static-class-ve-uyeler/Program.cs)
 Bu proje, C# dilinde static class’lar, static üyeler ve static constructor’ların nasıl çalıştığını göstermek için hazırlanmış basit ve açıklayıcı bir örnektir.
 ---
+## 📘 [Struct Kavramı – C# (Temel Seviye Öğretici)](./struct/Program.cs)
+📌 Struct Nedir?
+C#’ta struct (yapı), hafif veri modelleri oluşturmak için kullanılan değer tipi bir yapıdır.
+Bir struct oluşturduğunuzda verinin kendisi saklanır, referansı değil. Bu da struct’ı küçük ve taşınabilir veri modelleri için ideal yapar.
+---
