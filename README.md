@@ -93,3 +93,9 @@ Bir struct oluşturduğunuzda verinin kendisi saklanır, referansı değil. Bu d
 ## 📌 [C# Enum (Sabitler) Kavramı](./enum/Program.cs)
 Bu örnek, C# programlama dilinde enum (sabit listeleri) kavramını açıklamak ve gerçek bir senaryo üzerinde nasıl kullanılacağını göstermek için hazırlanmıştır.
 ---
+## [C# ile Nesne Yönelimli Programlama (OOP)](./oop/READMME.md)
+Bu proje, C# programlama dili kullanılarak Nesne Yönelimli Programlama (OOP) kavramlarını anlamanızı ve uygulamanızı kolaylaştırmak için hazırlanmıştır. OOP, yazılım geliştirmede kodun daha organize, yeniden kullanılabilir ve yönetilebilir olmasını sağlayan bir yaklaşımdır.
+---
+## [C# Inheritance (Kalıtım) Örneği – Canlılar, Bitkiler ve Hayvanlar Hiyerarşisi](./oop/inheritance/Program.cs)
+Bu proje, C# dilinde inheritance (kalıtım) kavramını anlamak için hazırlanmış örnek bir sınıf hiyerarşisini içerir. Canlıların ortak özelliklerini üst sınıfta toplayıp, alt sınıflara miras verilerek hem tekrar eden kodlardan kaçılması hem de hiyerarşik bir yapı kurulması hedeflenmiştir.
+---
