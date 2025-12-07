@@ -79,3 +79,6 @@ Bu proje, C# dilinde sınıf yapısı (class), erişim belirleyiciler, construct
 ## 📘 [C# Constructor (Yapıcı Metot)](./Class/Constructor/Program.cs)
 Bu proje, C# dilinde constructor (yapıcı metot) kullanımını örnekleyen basit bir sınıf yapısı içerir. Constructor’ların nasıl tanımlandığını, nasıl aşırı yüklendiğini (overloading) ve nesne oluşturma sürecindeki rollerini anlamaya odaklanır.
 ---
+## 🔒 [Encapsulation (Kapsülleme)](./Class/encapsulation/Program.cs)
+Bu proje, C# dilinde encapsulation (kapsülleme) kavramını açıklamak ve uygulamak için hazırlanmış basit bir öğrenci yönetimi örneğidir. Amaç, verilerin doğrudan erişime kapatılması, kontrollü bir şekilde okunup yazılması ve sınıf içinde güvenli bir yapı oluşturulmasını göstermektir.
+---
