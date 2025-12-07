@@ -105,3 +105,7 @@ Bu proje, C# dilinde Interface kullanımını ve bağımlılıkların gevşek ba
 ## 🚗 [Interface Example – Otomobil Sistemi](./oop/interface/IOtomobil/Program.cs)
 Bu proje, C# dilinde interface kullanımını, polimorfizmi, ve genişletilebilir mimari yaklaşımını göstermek için hazırlanmış bir otomobil örneğidir.Her otomobil sınıfı, aynı interface’i implement ederek kendi marka, renk ve tekerlek sayısı bilgisini sağlar.
 ---
+## 🚗 [Abstract Class Example – Otomobil Sistemi](./oop/abstract/Program.cs)
+Bu proje, C# dilinde abstract sınıflar, override, virtual metotlar ve kalıtım mimarisi kavramlarını göstermek için hazırlanmış bir otomobil örneğidir.
+Abstract sınıf, tüm araçlara ortak bir temel davranış sunarken; alt sınıflar kendi marka bilgilerini ve gerekiyorsa varsayılan renklerini özelleştirir.
+---
