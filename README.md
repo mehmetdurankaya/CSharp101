@@ -76,3 +76,6 @@ Bu proje, kullanıcıdan alınan bir cümledeki sesli harfleri bulup bir koleksi
 ## 📘 [Class ve Constructor Kullanımı](./Class/Program.cs)
 Bu proje, C# dilinde sınıf yapısı (class), erişim belirleyiciler, constructor (yapıcı metod) ve nesne kullanımı konularını örnekleyerek açıklayan basit bir console uygulamasıdır.
 ---
+## 📘 [C# Constructor (Yapıcı Metot)](./Class/Constructor/Program.cs)
+Bu proje, C# dilinde constructor (yapıcı metot) kullanımını örnekleyen basit bir sınıf yapısı içerir. Constructor’ların nasıl tanımlandığını, nasıl aşırı yüklendiğini (overloading) ve nesne oluşturma sürecindeki rollerini anlamaya odaklanır.
+---
