@@ -90,3 +90,6 @@ Bu proje, C# dilinde static class’lar, static üyeler ve static constructor’
 C#’ta struct (yapı), hafif veri modelleri oluşturmak için kullanılan değer tipi bir yapıdır.
 Bir struct oluşturduğunuzda verinin kendisi saklanır, referansı değil. Bu da struct’ı küçük ve taşınabilir veri modelleri için ideal yapar.
 ---
+## 📌 [C# Enum (Sabitler) Kavramı](./enum/Program.cs)
+Bu örnek, C# programlama dilinde enum (sabit listeleri) kavramını açıklamak ve gerçek bir senaryo üzerinde nasıl kullanılacağını göstermek için hazırlanmıştır.
+---
