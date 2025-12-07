@@ -99,3 +99,9 @@ Bu proje, C# programlama dili kullanılarak Nesne Yönelimli Programlama (OOP) k
 ## [C# Inheritance (Kalıtım) Örneği – Canlılar, Bitkiler ve Hayvanlar Hiyerarşisi](./oop/inheritance/Program.cs)
 Bu proje, C# dilinde inheritance (kalıtım) kavramını anlamak için hazırlanmış örnek bir sınıf hiyerarşisini içerir. Canlıların ortak özelliklerini üst sınıfta toplayıp, alt sınıflara miras verilerek hem tekrar eden kodlardan kaçılması hem de hiyerarşik bir yapı kurulması hedeflenmiştir.
 ---
+## 📘 [Interface Örneği – Logger Sistemi](./oop/interface/ILoger/Program.cs)
+Bu proje, C# dilinde Interface kullanımını ve bağımlılıkların gevşek bağlanması (loosely coupled design) yaklaşımını göstermek için hazırlanmış basit bir Logger Sistemi örneğidir.
+---
+## 🚗 [Interface Example – Otomobil Sistemi](./oop/interface/IOtomobil/Program.cs)
+Bu proje, C# dilinde interface kullanımını, polimorfizmi, ve genişletilebilir mimari yaklaşımını göstermek için hazırlanmış bir otomobil örneğidir.Her otomobil sınıfı, aynı interface’i implement ederek kendi marka, renk ve tekerlek sayısı bilgisini sağlar.
+---
