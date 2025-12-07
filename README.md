@@ -121,6 +121,7 @@ Bu proje, C# kullanılarak geliştirilmiş, profesyonel mimariye sahip çok dosy
 ---
 ## [TriangleDrawer – Üçgen Çizme Uygulaması](./projeler/ucgen-cizme/Program.cs)
 ---
-
+# 🎯 [Console Daire Çizme Uygulaması ] (./projeler/daire-cizme/Program.cs)
+---
 
 
