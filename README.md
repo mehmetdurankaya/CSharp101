@@ -122,6 +122,6 @@ Bu proje, C# kullanılarak geliştirilmiş, profesyonel mimariye sahip çok dosy
 ###  [String Index Karakter Çıkarma Uygulaması](./projeler/algoritma/Program.cs)
 ###  [Karakterleri Tersten Yazdırma Uygulaması](./projeler/karakteri-tersten-yazdirma/Program.cs)
 ###  [Alan – Çevre – Hacim Hesaplama Uygulaması](./projeler/alan-hesapla/Program.cs)
-
+###  [Integer İkilileri Toplama Uygulaması](./projeler/integer-ikilileri-topla/Program.cs)
 ---
 
