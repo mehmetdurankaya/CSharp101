@@ -115,14 +115,11 @@ Console tabanlı bir telefon rehberi uygulamasıdır. Kullanıcı; kişi ekleyeb
 # [ToDo Console Application(PROJE2)](./proje-2/Program.cs)
 Bu proje, C# kullanılarak geliştirilmiş, profesyonel mimariye sahip çok dosyalı bir **ToDo Yönetim Uygulamasıdır**. Uygulama; kart ekleme, güncelleme, silme, taşıma ve board listeleme özelliklerini içerirken aynı zamanda güçlü bir katmanlı mimari ve SOLID prensiplerine uygun olarak tasarlanmıştır.
 ---
-# PROJELER
----
-## [Fibonacci Ortalama Hesaplama Uygulaması](./projeler/ortalama-hesaplama/README.md)**
----
-## [TriangleDrawer – Üçgen Çizme Uygulaması](./projeler/ucgen-cizme/Program.cs)
----
-# 🎯 [Console Daire Çizme Uygulaması ] (./projeler/daire-cizme/Program.cs)
----
-## [String Index Karakter Çıkarma Uygulaması](./projeler/algoritma/Program.cs)
+## PROJELER
+###  [Fibonacci Ortalama Hesaplama Uygulaması](./projeler/ortalama-hesaplama/README.md)
+###  [TriangleDrawer – Üçgen Çizme Uygulaması](./projeler/ucgen-cizme/Program.cs)
+###  [Console Daire Çizme Uygulaması ](./projeler/daire-cizme/Program.cs)
+###  [String Index Karakter Çıkarma Uygulaması](./projeler/algoritma/Program.cs)
+###  [Karakterleri Tersten Yazdırma Uygulaması](./projeler/karakteri-tersten-yazdirma/Program.cs)
 ---
 
