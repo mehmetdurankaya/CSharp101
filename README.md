@@ -126,5 +126,6 @@ Bu proje, C# kullanılarak geliştirilmiş, profesyonel mimariye sahip çok dosy
 ###  [Mutlak Kare Alma Uygulaması (OOP Yapısı)](./projeler/mutlak-karealma/Program.cs)
 ###  [Karakter Değiştirme Uygulaması (OOP Versiyonu)](./projeler/karakter-degistirme/Program.cs)
 ###  [Sessiz Harf Kontrolü – OOP Console Uygulaması](./projeler/yanyana-iki-sessiz-harf/Program.cs)
+###  [Voting Uygulaması (OOP – C# Console)](./projeler/voting/Program.cs)
 ---
 
