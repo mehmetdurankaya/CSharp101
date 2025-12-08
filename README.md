@@ -124,5 +124,7 @@ Bu proje, C# kullanılarak geliştirilmiş, profesyonel mimariye sahip çok dosy
 ###  [Alan – Çevre – Hacim Hesaplama Uygulaması](./projeler/alan-hesapla/Program.cs)
 ###  [Integer İkilileri Toplama Uygulaması](./projeler/integer-ikilileri-topla/Program.cs)
 ###  [Mutlak Kare Alma Uygulaması (OOP Yapısı)](./projeler/mutlak-karealma/Program.cs)
+###  [Karakter Değiştirme Uygulaması (OOP Versiyonu)](./projeler/karakter-degistirme/Program.cs)
+###  [Sessiz Harf Kontrolü – OOP Console Uygulaması](./projeler/yanyana-iki-sessiz-harf/Program.cs)
 ---
 
