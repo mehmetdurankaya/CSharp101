@@ -123,5 +123,6 @@ Bu proje, C# kullanılarak geliştirilmiş, profesyonel mimariye sahip çok dosy
 ---
 # 🎯 [Console Daire Çizme Uygulaması ] (./projeler/daire-cizme/Program.cs)
 ---
-
+## [String Index Karakter Çıkarma Uygulaması](./projeler/algoritma/Program.cs)
+---
 
