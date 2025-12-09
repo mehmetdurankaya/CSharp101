@@ -128,5 +128,6 @@ Bu proje, C# kullanılarak geliştirilmiş, profesyonel mimariye sahip çok dosy
 ###  [Sessiz Harf Kontrolü – OOP Console Uygulaması](./projeler/yanyana-iki-sessiz-harf/Program.cs)
 ###  [Voting Uygulaması (OOP – C# Console)](./projeler/voting/Program.cs)
 ###  [ATM Console Uygulaması (OOP - C#)](./projeler/atm-console-app/Program.cs)
+##   [Barcode Generator & Reader (C# Console App)](./projeler/Barcode-Generator-Reader/)
 ---
 
