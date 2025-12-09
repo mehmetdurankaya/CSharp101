@@ -127,5 +127,6 @@ Bu proje, C# kullanılarak geliştirilmiş, profesyonel mimariye sahip çok dosy
 ###  [Karakter Değiştirme Uygulaması (OOP Versiyonu)](./projeler/karakter-degistirme/Program.cs)
 ###  [Sessiz Harf Kontrolü – OOP Console Uygulaması](./projeler/yanyana-iki-sessiz-harf/Program.cs)
 ###  [Voting Uygulaması (OOP – C# Console)](./projeler/voting/Program.cs)
+###  [ATM Console Uygulaması (OOP - C#)](./projeler/atm-console-app/Program.cs)
 ---
 

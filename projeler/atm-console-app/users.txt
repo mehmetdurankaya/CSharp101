@@ -1,0 +1,4 @@
+turan;1234;5000
+ali;abcd;2500
+ayse;pw;10000
+mehmet;1234;100

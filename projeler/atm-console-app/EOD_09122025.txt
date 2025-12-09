@@ -1,0 +1,16 @@
+=== END OF DAY REPORT ===
+Date: 09-12-2025 05:31:09
+
+Transactions:
+----------------------
+[05:30:28] mehmet - Yatirma - ₺100,00 - Nakit yatırma
+[05:30:42] mehmet - Cekme - ₺50,00 - Nakit çekme
+[05:31:03] mehmet - Odeme - ₺25,00 - elektrik faturası
+
+Fraud / Failed Login Attempts:
+-------------------------------
+No fraud attempts recorded.
+
+Summary:
+Total transactions: 3
+Total amount transacted: ₺175,00
